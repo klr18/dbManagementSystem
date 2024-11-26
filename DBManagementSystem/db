@@ -1,0 +1,59 @@
+{
+    "name": "db",
+    "tables": {
+        "table1": {
+            "name": "table1",
+            "schema": {
+                "id": "int",
+                "name": "str"
+            },
+            "data": [
+                {
+                    "id": 11,
+                    "name": "dd"
+                },
+                {
+                    "id": 1,
+                    "name": "qwe"
+                },
+                {
+                    "id": 33,
+                    "name": "rrr"
+                }
+            ]
+        },
+        "table2": {
+            "name": "table2",
+            "schema": {
+                "er": "float",
+                "eee": "str"
+            },
+            "data": []
+        },
+        "table3": {
+            "name": "table3",
+            "schema": {
+                "id": "int",
+                "name": "str"
+            },
+            "data": [
+                {
+                    "id": 1,
+                    "name": "anna"
+                },
+                {
+                    "id": 2,
+                    "name": "katya"
+                },
+                {
+                    "id": 3,
+                    "name": "sasha"
+                },
+                {
+                    "id": 4,
+                    "name": "rita"
+                }
+            ]
+        }
+    }
+}
